@@ -1,0 +1,11 @@
+L=List(range(10))
+-------PRINT LIST HERE---------
+
+print("Removeing Element from given location",L.pop(0))
+
+-------PRINT LIST HERE---------
+
+--------Remove elements from a given Range--------------
+
+-----------PRINT LIST HERE-------------
+
